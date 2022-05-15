@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shameemkabeer&label=Profile%20views&color=0e75b6&style=flat" alt="shameemkabeer" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security ,Ethical-Hacker**
+- 🌱 I’m currently learning **Cyber Security ,Ethical-Hacking**
 
 - 💬 Ask me about **Ethical-Hacking,Python,Shell-Scripting And Html/css**
 
