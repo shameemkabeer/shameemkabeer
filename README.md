@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber Security ,Ethical-Hacking**
 
-- 💬 Ask me about **Ethical-Hacking,Python,Shell-Scripting And Html/css**
+- 💬 Ask me about **Ethical-Hacking,Python,Shell-Scripting,Flutter And Html/css**
 
 - 📫 How to reach me **sudosuwhoami867@gmail.com**
 
