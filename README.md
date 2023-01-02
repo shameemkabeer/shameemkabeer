@@ -27,6 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shameemkabeer&" alt="shameemkabeer" /></p>
 
-<a href="https://www.buymeacoffee.com/sshameem867"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sshameem867&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4CQ0ZH)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shxim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shxim" /></a><a href="https://ko-fi.com/shxim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shxim" /></a></p><br><br>
+
