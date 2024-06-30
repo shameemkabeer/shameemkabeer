@@ -16,7 +16,7 @@
 <a href="https://twitter.com/shameemkabeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shameemkabeer" height="30" width="40" /></a>
 <a href="https://fb.com/shameemkabeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shameemkabeer" height="30" width="40" /></a>
 <a href="https://instagram.com/__shxim__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shxim__" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shameemkabeer" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="__shxim__" height="35" width="40" /></a>
+<a href="https://www.linkedin.com/in/shameemkabeer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="__shxim__" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
