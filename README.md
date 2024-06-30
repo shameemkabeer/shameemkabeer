@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shameemkabeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shameemkabeer" height="30" width="40" /></a>
-<a href="https://fb.com/shameemkabeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shameemkabeer" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shameem.kabeer.54?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shameemkabeer" height="30" width="40" /></a>
 <a href="https://instagram.com/__shxim__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shxim__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shameemkabeer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="__shxim__" height="30" width="35" /></a>
 </p>
