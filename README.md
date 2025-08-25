@@ -30,5 +30,16 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shxim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shxim" /></a><a href="https://ko-fi.com/shxim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shxim" /></a></p><br><br>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/shxim">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shxim" />
+  </a>
+  <a href="https://www.paypal.me/shameemkabeer">
+    <img src="https://img.shields.io/badge/PayPal-Support%20my%20work-003087?logo=paypal&logoColor=white&style=for-the-badge" height="50" alt="PayPal" />
+  </a>
+</p>
+
+
+
+
 
