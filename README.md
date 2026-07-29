@@ -177,12 +177,35 @@
 <!-- GITHUB STATS                                                             -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=ShameemKabeer&theme=dark&background=090D16&border=38BDF8&stroke=38BDF8&ring=00E5A0&fire=FF4D4D&currStreakNum=00E5A0&sideNums=F1F5F9&sideLabels=38BDF8&dates=64748B" alt="GitHub Streak"/>
+<!-- Streak — full width -->
+<img
+  width="100%"
+  src="https://streak-stats.demolab.com/?user=ShameemKabeer&theme=dark&background=090D16&border=38BDF8&stroke=38BDF8&ring=00E5A0&fire=FF4D4D&currStreakNum=00E5A0&sideNums=F1F5F9&sideLabels=38BDF8&dates=64748B&hide_border=false"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<img width="49%" align="left"  src="https://gh-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&count_private=true" alt="GitHub Stats"/>
-<img width="49%" align="right" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&langs_count=8" alt="Top Languages"/>
+<!-- Stats + Top Languages — side by side via table (float breaks inside div) -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://gh-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&count_private=true&hide_border=false"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&langs_count=8&hide_border=false"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <br clear="all"/><br/>
 
