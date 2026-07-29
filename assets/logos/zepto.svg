@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 40" height="40">
+  <rect width="100" height="40" rx="6" fill="#111111"/>
+  <!-- Zepto Z lightning bolt -->
+  <path d="M10,10 L26,10 L14,20 L26,20 L10,32 L22,20 L10,20 Z" fill="#FF4D00"/>
+  <!-- Zepto text -->
+  <text x="34" y="26" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="white">zepto</text>
+</svg>

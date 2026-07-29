@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" height="40">
+  <rect width="160" height="40" rx="6" fill="#002868"/>
+  <!-- Shield/emblem icon -->
+  <path d="M12,8 L28,8 L28,24 Q20,30 12,24 Z" fill="none" stroke="#BF0A30" stroke-width="1.5"/>
+  <path d="M15,8 L25,8 L25,23 Q20,27 15,23 Z" fill="#BF0A30" opacity="0.3"/>
+  <text x="17" y="22" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="white" text-anchor="middle">ED</text>
+  <!-- Text -->
+  <text x="36" y="17" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="white">US Dept. of</text>
+  <text x="36" y="30" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#BF0A30">Education</text>
+</svg>
