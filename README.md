@@ -166,10 +166,10 @@
 <p>If my security tools or research have been useful, support is appreciated.</p>
 
 <a href="https://www.paypal.me/shameemkabeer" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal — shameemkabeer"/>
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/GPay-sshameem867%40okhdfcbank-00E5A0?style=for-the-badge&logo=googlepay&logoColor=090D16&labelColor=0D1520" alt="GPay UPI"/>
+<img src="https://img.shields.io/badge/Google_Pay-UPI%20Available-00E5A0?style=for-the-badge&logo=googlepay&logoColor=090D16&labelColor=0D1520" alt="GPay"/>
 
 <br/><br/><br/>
 
@@ -180,7 +180,7 @@
 <!-- Streak — full width -->
 <img
   width="100%"
-  src="https://streak-stats.demolab.com/?user=ShameemKabeer&theme=dark&background=090D16&border=38BDF8&stroke=38BDF8&ring=00E5A0&fire=FF4D4D&currStreakNum=00E5A0&sideNums=F1F5F9&sideLabels=38BDF8&dates=64748B&hide_border=false"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ShameemKabeer&theme=dark&background=090D16&border=38BDF8&stroke=38BDF8&ring=00E5A0&fire=FF4D4D&currStreakNum=00E5A0&sideNums=F1F5F9&sideLabels=38BDF8&dates=64748B"
   alt="GitHub Streak"
 />
 
