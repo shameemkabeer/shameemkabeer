@@ -203,13 +203,13 @@
   <img
     width="49%"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&hide_rank=false&count_private=true"
+    src="https://gh-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&hide_rank=false&count_private=true"
     alt="GitHub Stats"
   />
   <img
     width="49%"
     align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&hide_border=false&langs_count=8"
+    src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&hide_border=false&langs_count=8"
     alt="Top Languages"
   />
 
