@@ -180,7 +180,7 @@
 <!-- Streak — full width -->
 <img
   width="100%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ShameemKabeer&theme=dark&background=090D16&border=38BDF8&stroke=38BDF8&ring=00E5A0&fire=FF4D4D&currStreakNum=00E5A0&sideNums=F1F5F9&sideLabels=38BDF8&dates=64748B"
+  src="https://streak-stats.demolab.com/?user=ShameemKabeer&theme=dark&background=090D16&border=38BDF8&stroke=38BDF8&ring=00E5A0&fire=FF4D4D&currStreakNum=00E5A0&sideNums=F1F5F9&sideLabels=38BDF8&dates=64748B"
   alt="GitHub Streak"
 />
 
