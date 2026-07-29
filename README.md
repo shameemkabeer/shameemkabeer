@@ -1,8 +1,7 @@
 <!--
 ================================================================================
   Mohamed Shameem PA — GitHub Profile README
-  Username : ShameemKabeer
-  Palette  : bg #090D16 · chrome #38BDF8 · accent #00E5A0 · alert #FF4D4D
+  ShameemKabeer/ShameemKabeer
 ================================================================================
 -->
 
@@ -17,7 +16,8 @@
   <img alt="Mohamed Shameem PA" src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/dark.svg" width="100%"/>
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00E5A0&background=00000000&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+%7C+Security+Researcher;India+Book+of+Records+Achiever;CEH+v13+%7C+ADCD+%7C+BCA+Graduate;VAPT+%7C+Attack+Surface+%7C+Responsible+Disclosure;Co-Founder+%40+Secnity;Trusted+by+NASA+·+Apple+·+WHO+·+LG+·+US+DoE+·+Zepto" alt="Typing SVG"/>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+Analyst+%7C+Security+Researcher;India+Book+of+Records+Achiever;CEH+v13+%7C+ADCD+%7C+BCA+Graduate;VAPT+%7C+Attack+Surface+Assessment+%7C+Responsible+Disclosure;Co-Founder+%40+Secnity+%E2%80%94+AI+%26+Cybersecurity;Trusted+by+NASA+%7C+Apple+%7C+WHO+%7C+LG+%7C+US+DoE+%7C+Zepto" alt="Typing SVG" width="100%"/>
 
 <br/>
 
@@ -29,37 +29,33 @@
 <!--  CONNECT                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=50&text=CONNECT&fontColor=38BDF8&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="CONNECT"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=CONNECT&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="CONNECT"/>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/shameemkabeer" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
 <a href="https://instagram.com/mohamedshameem.sec" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" height="45" alt="Instagram"/>
+</a>&nbsp;&nbsp;
 <a href="https://medium.com/@shameemkabeer" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-&nbsp;
+  <img src="https://cdn.simpleicons.org/medium/F1F5F9" width="40" height="40" alt="Medium"/>
+</a>&nbsp;&nbsp;
 <a href="mailto:contact@mohamedshameem.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
+</a>&nbsp;&nbsp;
 <a href="https://mohamedshameem.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=090D16" alt="Portfolio"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/38BDF8" width="40" height="40" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  CREDENTIALS                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=50&text=CREDENTIALS&fontColor=38BDF8&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="CREDENTIALS"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=CREDENTIALS&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="CREDENTIALS"/>
 
 <br/><br/>
 
@@ -71,135 +67,83 @@
 
 <br/><br/>
 
-<!-- IBR Achievement Callout -->
 <img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/ibr-callout.svg" width="100%" alt="India Book of Records — Youngest Indian Cybersecurity Researcher"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  RECOGNIZED BY                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=50&text=RECOGNIZED%20BY&fontColor=38BDF8&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="RECOGNIZED BY"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=RECOGNIZED%20BY&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="RECOGNIZED BY"/>
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA"/><br/>
-      <sub><b>NASA</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple"/><br/>
-      <sub><b>Apple</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/WHO-0072BC?style=for-the-badge&logoColor=white&labelColor=0072BC" alt="WHO"/><br/>
-      <sub><b>WHO</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white" alt="LG"/><br/>
-      <sub><b>LG</b></sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/US%20Dept.%20of-Education-002868?style=for-the-badge&logoColor=white&labelColor=002868" alt="US DoE"/><br/>
-      <sub><b>US Dept. of Education</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Zepto-111111?style=for-the-badge&logoColor=FF4D00&labelColor=111111" alt="Zepto"/><br/>
-      <sub><b>Zepto</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://cdn.simpleicons.org/nasa/FC3D21" width="52" height="52" alt="NASA"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apple/F5F5F7" width="48" height="48" alt="Apple"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/worldhealthorganization/0072BC" width="48" height="48" alt="WHO"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/lg/A50034" width="52" height="52" alt="LG"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/usdoe.svg" height="48" alt="US Dept. of Education"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/zepto.svg" height="48" alt="Zepto"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  OFFENSIVE SECURITY TOOLKIT                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:140A0A,100:090D16&height=50&text=OFFENSIVE%20SECURITY%20TOOLKIT&fontColor=FF4D4D&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="OFFENSIVE SECURITY TOOLKIT"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:140A0A,100:090D16&height=48&text=OFFENSIVE%20SECURITY%20TOOLKIT&fontColor=FF4D4D&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="OFFENSIVE SECURITY TOOLKIT"/>
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Kali-557CDA?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-      <br/><sub><b>Kali Linux</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Burp-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-      <br/><sub><b>Burp Suite</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-      <br/><sub><b>Metasploit</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-      <br/><sub><b>Wireshark</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Splunk-00E5A0?style=for-the-badge&logo=splunk&logoColor=090D16" alt="Splunk"/>
-      <br/><sub><b>Splunk</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Nmap"/>
-      <br/><sub><b>Nmap</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Masscan-00E5A0?style=for-the-badge&logoColor=white&labelColor=0D1520" alt="Masscan"/>
-      <br/><sub><b>Masscan</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Cobalt-FF4D4D?style=for-the-badge&logoColor=white&labelColor=0D1520" alt="Cobalt Strike"/>
-      <br/><sub><b>Cobalt Strike</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/ReconXplorer-00E5A0?style=for-the-badge&logo=github&logoColor=090D16" alt="ReconXplorer"/>
-      <br/><sub><b>ReconXplorer</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/RecHunter-38BDF8?style=for-the-badge&logo=github&logoColor=090D16" alt="RecHunter"/>
-      <br/><sub><b>RecHunter</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://cdn.simpleicons.org/kalilinux/557CDA" width="48" height="48" alt="Kali Linux"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="48" height="48" alt="Burp Suite Pro"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" alt="Metasploit"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/splunk/00E5A0" width="48" height="48" alt="Splunk"/>
 
 <br/><br/>
+
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/nmap.svg" height="48" alt="Nmap"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/masscan.svg" height="48" alt="Masscan"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/cobalt-strike.svg" height="48" alt="Cobalt Strike"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/00E5A0" width="48" height="48" alt="ReconXplorer"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/38BDF8" width="48" height="48" alt="RecHunter"/>
+
+<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  HARDWARE                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=50&text=HARDWARE&fontColor=38BDF8&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="HARDWARE"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=HARDWARE&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="HARDWARE"/>
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi 5"/>
-      <br/><sub><b>Raspberry Pi 5</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/LilyGO%20T--Embed%20CC1101%20Plus-38BDF8?style=for-the-badge&labelColor=0D1520" alt="LilyGO T-Embed CC1101 Plus"/>
-      <br/><sub><b>LilyGO T-Embed CC1101 Plus</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" height="48" alt="Raspberry Pi 5"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LilyGO%20T--Embed%20CC1101%20Plus-38BDF8?style=for-the-badge&labelColor=0D1520" alt="LilyGO T-Embed CC1101 Plus"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  DEVELOPMENT STACK                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=50&text=DEVELOPMENT%20STACK&fontColor=38BDF8&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="DEVELOPMENT STACK"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=DEVELOPMENT%20STACK&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="DEVELOPMENT STACK"/>
 
 <br/><br/>
 
@@ -207,15 +151,15 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,flutter,supabase,firebase,postgres,vercel&theme=dark&perline=7" alt="Frameworks and Infra"/>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,flutter,supabase,firebase,postgres,vercel&theme=dark&perline=7" alt="Frameworks"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  SUPPORT                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=50&text=SUPPORT&fontColor=38BDF8&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="SUPPORT"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=SUPPORT&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="SUPPORT"/>
 
 <br/><br/>
 
@@ -225,15 +169,15 @@
   <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Google%20Pay-UPI%20Available-00E5A0?style=for-the-badge&logo=googlepay&logoColor=090D16&labelColor=0D1520" alt="GPay"/>
+<img src="https://img.shields.io/badge/Google%20Pay-0D1520?style=for-the-badge&logo=googlepay&logoColor=00E5A0" alt="Google Pay"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  GITHUB STATS                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=50&text=GITHUB%20STATS&fontColor=38BDF8&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="GITHUB STATS"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=GITHUB%20STATS&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="GITHUB STATS"/>
 
 <br/><br/>
 
@@ -245,30 +189,26 @@
 
 <br/><br/>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="4" cellpadding="0">
   <tr>
-    <td width="50%" align="center">
+    <td align="center" width="50%">
       <img
         width="100%"
-        src="https://gh-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&count_private=true&hide_border=false"
+        src="https://gh-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&count_private=true"
         alt="GitHub Stats"
       />
     </td>
-    <td width="50%" align="center">
+    <td align="center" width="50%">
       <img
         width="100%"
-        src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&langs_count=8&hide_border=false"
+        src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=38BDF8&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&langs_count=8"
         alt="Top Languages"
       />
     </td>
   </tr>
 </table>
 
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  CONTRIBUTION SNAKE                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<br/>
 
 <img
   src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/output/github-contribution-grid-snake-dark.svg"
