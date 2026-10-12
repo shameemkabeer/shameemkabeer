@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="56" viewBox="0 0 800 56">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0A1628"/>
-      <stop offset="100%" stop-color="#090D16"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="56" fill="url(#g)" rx="6"/>
-  <rect width="4" height="56" fill="#00E5A0" rx="2"/>
-  <text x="28" y="23" font-family="'Courier New',Courier,monospace" font-size="10" fill="#00E5A0" letter-spacing="1">ACHIEVEMENT</text>
-  <text x="28" y="43" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="600" fill="#F1F5F9" letter-spacing="0.3">&#9670;  Youngest Indian Cybersecurity Researcher — Global &amp; National Recognitions in 37 Days</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="img" aria-label="India Book of Records — Youngest Indian Cybersecurity Researcher">
+<style>text { font-family: 'Hack','JetBrains Mono','DejaVu Sans Mono','SFMono-Regular',Menlo,Consolas,monospace; white-space: pre; }</style>
+<rect x="0.75" y="0.75" width="798.5" height="62.5" rx="8" fill="#0A0D12" stroke="#30363D" stroke-width="1.5"/>
+<rect x="0.75" y="12" width="3" height="40" rx="1.5" fill="#D29922"/>
+<text x="22" y="25" style="font-size:12px"><tspan fill="#D29922">[ACHIEVEMENT]</tspan><tspan fill="#6E7681"> india book of records</tspan></text>
+<text x="22" y="47" style="font-size:15px"><tspan fill="#D29922">★ </tspan><tspan fill="#C9D1D9">Youngest Indian Cybersecurity Researcher</tspan><tspan fill="#6E7681"> — </tspan><tspan fill="#7EE787">global recognition in 37 days</tspan></text>
 </svg>

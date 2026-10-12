@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="46" viewBox="0 0 800 46" role="img" aria-label="stats --user ShameemKabeer">
+<style>text { font-family: 'Hack','JetBrains Mono','DejaVu Sans Mono','SFMono-Regular',Menlo,Consolas,monospace; font-size: 15px; white-space: pre; }</style>
+<rect x="0.75" y="0.75" width="798.5" height="44.5" rx="8" fill="#0A0D12" stroke="#30363D" stroke-width="1.5"/>
+<rect x="0.75" y="10" width="3" height="26" rx="1.5" fill="#3FB950"/>
+<text x="22" y="28.0"><tspan fill="#6E7681">╰─</tspan><tspan fill="#3FB950">❯ </tspan><tspan fill="#C9D1D9">gh </tspan><tspan fill="#7EE787">stats --user ShameemKabeer</tspan></text>
+</svg>

@@ -1,11 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0D1B2A"/>
-      <stop offset="100%" stop-color="#090D16"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="50" fill="url(#g)" rx="6"/>
-  <rect width="4" height="50" fill="#00E5A0" rx="2"/>
-  <text x="400" y="31" font-family="'Courier New',Courier,monospace" font-size="13" font-weight="700" fill="#38BDF8" text-anchor="middle" letter-spacing="6">CONNECT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="46" viewBox="0 0 800 46" role="img" aria-label="~/connect">
+<style>text { font-family: 'Hack','JetBrains Mono','DejaVu Sans Mono','SFMono-Regular',Menlo,Consolas,monospace; font-size: 15px; white-space: pre; }</style>
+<rect x="0.75" y="0.75" width="798.5" height="44.5" rx="8" fill="#0A0D12" stroke="#30363D" stroke-width="1.5"/>
+<rect x="0.75" y="10" width="3" height="26" rx="1.5" fill="#3FB950"/>
+<text x="22" y="28.0"><tspan fill="#6E7681">╰─</tspan><tspan fill="#3FB950">❯ </tspan><tspan fill="#C9D1D9">ls </tspan><tspan fill="#7EE787">~/connect</tspan></text>
 </svg>

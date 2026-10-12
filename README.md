@@ -8,20 +8,16 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  BANNER                                                                 -->
+<!--  TERMINAL                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/light.svg">
-  <img alt="Mohamed Shameem PA" src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/terminal.svg" width="100%" alt="shameem@kabeer — whoami: Mohamed Shameem PA, Cybersecurity Analyst"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=00E5A0&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+Analyst+%7C+Security+Researcher;India+Book+of+Records+Achiever;CEH+v13+%7C+ADCD+%7C+BCA+Graduate;VAPT+%7C+Attack+Surface+Assessment+%7C+Responsible+Disclosure;Co-Founder+%40+Secnity+%E2%80%94+AI+%26+Cybersecurity;Trusted+by+NASA+%7C+Apple+%7C+WHO+%7C+LG+%7C+US+DoE+%7C+Zepto" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+Analyst+%7C+Security+Researcher;India+Book+of+Records+Achiever;CEH+v13+%7C+ADCD+%7C+BCA+Graduate;VAPT+%7C+Attack+Surface+Assessment+%7C+Responsible+Disclosure;Trusted+by+NASA+%7C+Apple+%7C+WHO+%7C+LG+%7C+US+DoE+%7C+Zepto" alt="Typing SVG" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShameemKabeer&color=00E5A0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ShameemKabeer&color=3FB950&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -29,41 +25,35 @@
 <!--  CONNECT                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=CONNECT&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="CONNECT"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/connect.svg" width="100%" alt="CONNECT"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/linkedin.svg" height="56" alt="LinkedIn" title="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/mohamedshameem.sec" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/instagram.svg" height="56" alt="Instagram" title="Instagram"/></a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/medium.svg" height="56" alt="Medium" title="Medium"/></a>
+&nbsp;&nbsp;
+<a href="mailto:contact@mohamedshameem.com" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/gmail.svg" height="56" alt="Email" title="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://mohamedshameem.com" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/website.svg" height="56" alt="Portfolio" title="Portfolio"/></a>
 
 <br/><br/>
-
-<a href="https://linkedin.com/in/shameemkabeer" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/mohamedshameem.sec" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" height="45" alt="Instagram"/>
-</a>&nbsp;&nbsp;
-<a href="https://medium.com/@shameemkabeer" target="_blank">
-  <img src="https://cdn.simpleicons.org/medium/F1F5F9" width="40" height="40" alt="Medium"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:contact@mohamedshameem.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
-</a>&nbsp;&nbsp;
-<a href="https://mohamedshameem.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/38BDF8" width="40" height="40" alt="Portfolio"/>
-</a>
-
-<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  CREDENTIALS                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=CREDENTIALS&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="CREDENTIALS"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/credentials.svg" width="100%" alt="CREDENTIALS"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CEH%20v13-Certified%20Ethical%20Hacker-FF4D4D?style=for-the-badge&labelColor=0D1520" alt="CEH v13"/>
+<img src="https://img.shields.io/badge/CEH%20v13-Certified%20Ethical%20Hacker-F85149?style=for-the-badge&labelColor=161B22" alt="CEH v13"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ADCD-Advanced%20Diploma%20in%20Cyber%20Defense-00E5A0?style=for-the-badge&labelColor=0D1520" alt="ADCD"/>
+<img src="https://img.shields.io/badge/ADCD-Advanced%20Diploma%20in%20Cyber%20Defense-3FB950?style=for-the-badge&labelColor=161B22" alt="ADCD"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BCA-Graduate-38BDF8?style=for-the-badge&labelColor=0D1520" alt="BCA"/>
+<img src="https://img.shields.io/badge/BCA-Graduate-79C0FF?style=for-the-badge&labelColor=161B22" alt="BCA"/>
 
 <br/><br/>
 
@@ -75,115 +65,135 @@
 <!--  RECOGNIZED BY                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=RECOGNIZED%20BY&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="RECOGNIZED BY"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/recognized-by.svg" width="100%" alt="RECOGNIZED BY"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/nasa.svg" height="56" alt="NASA" title="NASA"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/apple.svg" height="56" alt="Apple" title="Apple"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/who.svg" height="56" alt="World Health Organization" title="World Health Organization"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/lg.svg" height="56" alt="LG" title="LG"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/usdoe.svg" height="56" alt="U.S. Department of Education" title="U.S. Department of Education"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/zepto.svg" height="56" alt="Zepto" title="Zepto"/>
 
 <br/><br/>
-
-<img src="https://cdn.simpleicons.org/nasa/FC3D21" width="52" height="52" alt="NASA"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apple/F5F5F7" width="48" height="48" alt="Apple"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/worldhealthorganization/0072BC" width="48" height="48" alt="WHO"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/lg/A50034" width="52" height="52" alt="LG"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/usdoe.svg" height="48" alt="US Dept. of Education"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/zepto.svg" height="48" alt="Zepto"/>
-
-<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  OFFENSIVE SECURITY TOOLKIT                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:140A0A,100:090D16&height=48&text=OFFENSIVE%20SECURITY%20TOOLKIT&fontColor=FF4D4D&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="OFFENSIVE SECURITY TOOLKIT"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/offensive-security-toolkit.svg" width="100%" alt="OFFENSIVE SECURITY TOOLKIT"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/kali.svg" height="56" alt="Kali Linux" title="Kali Linux"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/burpsuite.svg" height="56" alt="Burp Suite Pro" title="Burp Suite Pro"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/metasploit.svg" height="56" alt="Metasploit" title="Metasploit"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/wireshark.svg" height="56" alt="Wireshark" title="Wireshark"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/splunk.svg" height="56" alt="Splunk" title="Splunk"/>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/kalilinux/557CDA" width="48" height="48" alt="Kali Linux"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="48" height="48" alt="Burp Suite Pro"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" alt="Metasploit"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/splunk/00E5A0" width="48" height="48" alt="Splunk"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/nmap.svg" height="56" alt="Nmap" title="Nmap"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/masscan.svg" height="56" alt="Masscan" title="Masscan"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/cobaltstrike.svg" height="56" alt="Cobalt Strike" title="Cobalt Strike"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/nmap.svg" height="48" alt="Nmap"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/masscan.svg" height="48" alt="Masscan"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/logos/cobalt-strike.svg" height="48" alt="Cobalt Strike"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/00E5A0" width="48" height="48" alt="ReconXplorer"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/38BDF8" width="48" height="48" alt="RecHunter"/>
+<a href="https://github.com/shameemkabeer/RecHunter" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/rechunter.svg" height="56" alt="RecHunter" title="RecHunter"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/shameemkabeer/ReconXplorer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/reconxplorer.svg" height="56" alt="ReconXplorer" title="ReconXplorer"/></a>
 
-<br/><br/><br/>
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  HARDWARE                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=HARDWARE&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="HARDWARE"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/hardware.svg" width="100%" alt="HARDWARE"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/raspberrypi.svg" height="56" alt="Raspberry Pi 5" title="Raspberry Pi 5"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/lilygo.svg" height="56" alt="LilyGO T-Embed CC1101 Plus" title="LilyGO T-Embed CC1101 Plus"/>
 
 <br/><br/>
-
-<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" height="48" alt="Raspberry Pi 5"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LilyGO%20T--Embed%20CC1101%20Plus-38BDF8?style=for-the-badge&labelColor=0D1520" alt="LilyGO T-Embed CC1101 Plus"/>
-
-<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  DEVELOPMENT STACK                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=DEVELOPMENT%20STACK&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="DEVELOPMENT STACK"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/development-stack.svg" width="100%" alt="DEVELOPMENT STACK"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/python.svg" height="56" alt="Python" title="Python"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/bash.svg" height="56" alt="Bash" title="Bash"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/javascript.svg" height="56" alt="JavaScript" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/java.svg" height="56" alt="Java" title="Java"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/c.svg" height="56" alt="C" title="C"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/cpp.svg" height="56" alt="C++" title="C++"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,bash,js,java,c,cpp&theme=dark&perline=6" alt="Languages"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/nextjs.svg" height="56" alt="Next.js" title="Next.js"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/tailwind.svg" height="56" alt="Tailwind CSS" title="Tailwind CSS"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/flutter.svg" height="56" alt="Flutter" title="Flutter"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/supabase.svg" height="56" alt="Supabase" title="Supabase"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/firebase.svg" height="56" alt="Firebase" title="Firebase"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/postgresql.svg" height="56" alt="PostgreSQL" title="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/vercel.svg" height="56" alt="Vercel" title="Vercel"/>
 
 <br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,flutter,supabase,firebase,postgres,vercel&theme=dark&perline=7" alt="Frameworks"/>
-
-<br/><br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  SUPPORT                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=SUPPORT&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="SUPPORT"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/support.svg" width="100%" alt="SUPPORT"/>
 
-<br/><br/>
+<br/>
 
 <p>If my security research or tools have been useful, support is appreciated.</p>
 
-<a href="https://www.paypal.me/shameemkabeer" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Google%20Pay-0D1520?style=for-the-badge&logo=googlepay&logoColor=00E5A0" alt="Google Pay"/>
+<a href="https://www.paypal.me/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/paypal.svg" height="56" alt="PayPal" title="PayPal"/></a>
 
-<br/><br/><br/>
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  GITHUB STATS                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1520,100:090D16&height=48&text=GITHUB%20STATS&fontColor=38BDF8&fontSize=13&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%" alt="GITHUB STATS"/>
+<img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/headers/github-stats.svg" width="100%" alt="GITHUB STATS"/>
 
 <br/><br/>
 
 <img
   width="100%"
-  src="https://streak-stats.demolab.com/?user=ShameemKabeer&theme=dark&background=090D16&border=38BDF8&stroke=38BDF8&ring=00E5A0&fire=FF4D4D&currStreakNum=00E5A0&sideNums=F1F5F9&sideLabels=38BDF8&dates=64748B"
+  src="https://streak-stats.demolab.com/?user=ShameemKabeer&theme=dark&background=0A0D12&border=30363D&stroke=30363D&ring=3FB950&fire=F85149&currStreakNum=7EE787&sideNums=C9D1D9&sideLabels=3FB950&dates=6E7681"
   alt="GitHub Streak"
 />
 
@@ -194,14 +204,14 @@
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://gh-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=38BDF8&icon_color=00E5A0&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&count_private=true"
+        src="https://gh-readme-stats.vercel.app/api?username=ShameemKabeer&show_icons=true&title_color=3FB950&icon_color=7EE787&text_color=C9D1D9&bg_color=0A0D12&border_color=30363D&count_private=true"
         alt="GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=38BDF8&text_color=F1F5F9&bg_color=090D16&border_color=38BDF8&langs_count=8"
+        src="https://gh-readme-stats.vercel.app/api/top-langs/?username=ShameemKabeer&layout=compact&title_color=3FB950&text_color=C9D1D9&bg_color=0A0D12&border_color=30363D&langs_count=8"
         alt="Top Languages"
       />
     </td>
