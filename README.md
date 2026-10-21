@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShameemKabeer&color=3FB950&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ShameemKabeer&color=3FB950&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -177,9 +177,7 @@
 
 <br/>
 
-<p>If my security research or tools have been useful, support is appreciated.</p>
-
-<a href="https://www.paypal.me/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/paypal.svg" height="56" alt="PayPal" title="PayPal"/></a>
+<a href="https://www.paypal.me/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/support.svg" height="64" alt="Support my work via PayPal" title="Support my work via PayPal"/></a>
 
 <br/><br/>
 
