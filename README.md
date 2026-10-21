@@ -177,7 +177,7 @@
 
 <br/>
 
-<a href="https://www.paypal.me/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/745cf776b7150556abc2e6d80bf7b71051a74417/assets/icons/support.svg" height="64" alt="Support my work via PayPal" title="Support my work via PayPal"/></a>
+<a href="https://www.paypal.me/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/paypal.svg" height="56" alt="PayPal" title="Support via PayPal"/></a>
 
 <br/><br/>
 
