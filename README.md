@@ -37,7 +37,7 @@
 &nbsp;&nbsp;
 <a href="mailto:contact@mohamedshameem.com" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/gmail.svg" height="56" alt="Email" title="Email"/></a>
 &nbsp;&nbsp;
-<a href="https://mohamedshameem.com" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/website.svg" height="56" alt="Portfolio" title="Portfolio"/></a>
+<a href="https://mohamedshameem.com" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/website.svg?v=3" height="56" alt="Portfolio" title="Portfolio"/></a>
 
 <br/><br/>
 
@@ -177,7 +177,7 @@
 
 <br/>
 
-<a href="https://www.paypal.me/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/support.svg" height="64" alt="Support my work via PayPal" title="Support my work via PayPal"/></a>
+<a href="https://www.paypal.me/shameemkabeer" target="_blank"><img src="https://raw.githubusercontent.com/ShameemKabeer/ShameemKabeer/main/assets/icons/support.svg?v=3" height="64" alt="Support my work via PayPal" title="Support my work via PayPal"/></a>
 
 <br/><br/>
 
